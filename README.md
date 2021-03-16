@@ -5,8 +5,9 @@
 
 ![weirdbb91's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdbb91&count_private=true)
 
+# 진행 프로젝트  
 
-# <a href='https://baekpt.site' target='_blank'>📋 소셜로그인 게시판</a>
+## 📋 소셜로그인 게시판 <a href='https://baekpt.site' target='_blank'>링크</a>
 ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=Thymeleaf&logoColor=white)
