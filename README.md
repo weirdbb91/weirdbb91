@@ -5,31 +5,6 @@
 
 ![weirdbb91's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdbb91&count_private=true)
 
-# 진행 프로젝트  
-
-## 📋 소셜로그인 게시판 <a href='https://baekpt.site' target='_blank'>링크</a>
-![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=Thymeleaf&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon-AWS&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white)
-[자세히/코드 보기](https://github.com/weirdbb91/lamb)
-
-- 자바 스프링기반으로 제작된 소셜로그인 게시판입니다  
-  - 스프링, 스프링 시큐리티의 설정들과 전반적인 흐름 학습이 목적
-  - OAuth 2.0 기술을 통한 소셜 로그인 구현 (naver, kakao, google, github, facebook)
-  - 사용자 토큰을 저장해 로그인 횟수 감소 (remember me)
-  - AWS EC2와 RDS(MySQL) 사용
-  - batch, shell script를 활용해 빌드, 배포 자동화
-  - ssl 인증서 적용
-
-
-### 🚀 Available
-|||||||||||
-|---|---|---|---|---|---|---|---|---|---|
-|![java][java]|![spring][spring]|![mysql][mysql]|![aws][aws]|![git][git]|![docker][docker]|![jks][jenkings]|![linux][linux]|![ubuntu][ubuntu]|![python][python]|
-|![html][html]|![css][css]|![js][javascript]|![bs][bootstrap]|![jquery][jquery]|![vuejs][vuejs]|![thymeleaf][thymeleaf]|![jiraSW][jiraSW]|![bitb][bitbucket]|![cfl][confluence]|
 
 
 
