@@ -3,7 +3,7 @@
 
 
 
-![weirdbb91's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdbb91&count_private=true)
+<!-- ![weirdbb91's GitHub stats](https://github-readme-stats.vercel.app/api?username=weirdbb91&count_private=true) -->
 
 
 # [RESUME Link](https://github.com/weirdbb91/resume/blob/main/README.md)
